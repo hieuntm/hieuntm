@@ -5,9 +5,9 @@
 ## I'm a Software Engineering  
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, Java etc.
-- 📚 I’m currently learning everything about Frontend and Backend technologies 😅
+- 📚 I’m currently learning everything about Frontend and Backend technologies
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to play pool and snooker 🎱.
+- ⚡ Fun fact: I love book, game and really enjou swimming.
 
 ---
 
@@ -19,12 +19,12 @@
 
 ---
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
+
 
 ### Contact with me 📝
 
-[<img align="left" alt="Nguyễn Trí Minh Hiếu | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
-[<img align="left" alt="Nguyen Tri Minh Hieu | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />][instagram]
+[<img align="left" alt="Nguyễn Trí Minh Hiếu | LinkedIn" height="30px" src="https://cdns.iconmonstr.com/wp-content/releases/preview/2012/240/iconmonstr-linkedin-3.png"/>][linkedin]
+[<img align="left" alt="Nguyen Tri Minh Hieu | Instagram" height="30px" src="https://cdns.iconmonstr.com/wp-content/releases/preview/2016/240/iconmonstr-instagram-11.png" />][instagram]
 
 <br />
 
