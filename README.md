@@ -76,8 +76,8 @@
 
 ---
 
-[instagram]: https://www.instagram.com/ngtmhieu
-[linkedin]: https://www.linkedin.com/in/hieu-nguyen-tri-minh-122478199/
+[instagram]: https://www.instagram.com/ngtm.hieu
+[linkedin]: https://www.linkedin.com/in/hieu-nguyen-122478199
 [Spotify]: https://open.spotify.com/user/wofe6t9culkijne2b12020ddc
 
 
