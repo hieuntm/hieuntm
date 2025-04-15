@@ -4,10 +4,10 @@
 
 ## I'm a Software Engineer
 
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, Java etc.
-- 📚 I’m currently learning everything about Frontend and Backend technologies
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love book, game and really enjoy swimming.
+👨‍💻 Current Focus: I am actively working with web development technologies, including JavaScript and Java, honing my skills in both Frontend and Backend development.
+📚 Learning Journey: Continuously expanding my knowledge across various technologies to stay at the forefront of the development landscape.
+💪🏼 Future Goals: Dedicated to mastering new technologies and constantly innovating through creative ideas.
+⚡ Personal Interests: Passionate about reading, gaming, and swimming, which provide me with relaxation and inspiration.
 
 ---
 
@@ -41,7 +41,6 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff)
 ![Microsoft Sql Server](https://img.shields.io/badge/-Sql%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
