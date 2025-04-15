@@ -4,10 +4,10 @@
 
 ## I'm a Software Engineer
 
-👨‍💻 Current Focus: I am actively working with web development technologies, including JavaScript and Java, honing my skills in both Frontend and Backend development.
-📚 Learning Journey: Continuously expanding my knowledge across various technologies to stay at the forefront of the development landscape.
-💪🏼 Future Goals: Dedicated to mastering new technologies and constantly innovating through creative ideas.
-⚡ Personal Interests: Passionate about reading, gaming, and swimming, which provide me with relaxation and inspiration.
+- 👨‍💻 Current Focus: I am actively working with web development technologies, including JavaScript and Java, honing my skills in both Frontend and Backend development.
+- 📚 Learning Journey: Continuously expanding my knowledge across various technologies to stay at the forefront of the development landscape.
+- 💪🏼 Future Goals: Dedicated to mastering new technologies and constantly innovating through creative ideas.
+- ⚡ Personal Interests: Passionate about reading, gaming, and swimming, which provide me with relaxation and inspiration.
 
 ---
 
